@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"><i>Welcome to my GitHub!</i></h3>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Carolina Angulo | 💻 Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Carolina Angulo | 💻 Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 </div>
 
 -------
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </i>
  
 
-* 🌱 I’m currently learning **GCP, Docker, Kubernetes**
+* 🌱 I’m currently learning **Microservicios, Docker, Kubernetes, AWS.**
 * 📫 How to reach me: [angulo.hc@gmail.com](mailto:angulo.hc@gmail.com).
 
 
@@ -60,19 +60,25 @@ You can click the Preview link to take a look at your changes.
 ## 🚀🛠️ **Technologies & Tools**
 
 <p align="center"> 
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"></a>
-    <a href="#"><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white"></a>
+  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"></a>
+  <a href="#"><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+  <a href="#"><img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white"></a>
+  <a href="#"><img alt="Swagger" src ="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
 </p>
 
 <p align="center"> 
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-white.svg?logo=npm&logoColor=red"></a>
-   <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>    
+    <a href="#"><img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?logo=Atom&logoColor=white"></a>    
 </p>
 
@@ -82,16 +88,12 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> 
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=blue"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=black"></a>
 </p>
 
 
 -------
-## 🔗 **Where to find me**
 
-[![GitHub](icons/github.png)]()
-[![GitLab](icons/gitlab.png)]()
-[![LinkedIn](icons/linkedin.png)]()
 
 
 
